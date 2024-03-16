@@ -1,0 +1,9 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "Parse/antlr-4.13.1-complete.jar"
+    ],
+    "java.project.sourcePaths": [
+        ""
+    ]
+}
